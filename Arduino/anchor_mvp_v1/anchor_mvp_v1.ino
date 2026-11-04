@@ -37,10 +37,10 @@
 // ============================================================
 // CONFIGURAÇÕES DE WI-FI E MQTT (EDITAR AQUI)
 // ============================================================
-#define WIFI_SSID       "Caju"
-#define WIFI_PASSWORD   "18022018"
+#define WIFI_SSID       "LELA2G"
+#define WIFI_PASSWORD   "Itupeva2"
 
-#define MQTT_BROKER     "192.168.15.82" //.46 enzo .82 kayky
+#define MQTT_BROKER     "192.168.0.177" //.46 enzo .82 kayky
 #define MQTT_PORT       1883
 #define MQTT_USER       ""
 #define MQTT_PASS       ""

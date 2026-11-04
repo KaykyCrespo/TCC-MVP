@@ -19,8 +19,8 @@ import urllib.parse
 import urllib.request
 from datetime import datetime
 
-TOKEN = os.environ.get("OQPNB_TG_TOKEN", "").strip()
-CHAT_ID = os.environ.get("OQPNB_TG_CHAT", "").strip()
+TOKEN = os.environ.get("OQPNB_TG_TOKEN", "9095146625:AAHR-K0XpET1c7KbvydJMCzkcIFmgJnU2vo").strip()
+CHAT_ID = os.environ.get("OQPNB_TG_CHAT", "5470865035").strip()
 TIMEOUT_S = 5
 TENTATIVAS = 2
 
